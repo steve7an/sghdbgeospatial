@@ -1,0 +1,120 @@
+Lines,Station_Name,Opening,End date,Name,Abbr,Location,Bus_Interchange,lat,lon,datetime
+ NS1  EW24  JE5 ,Jurong East,3/10/1990,4/20/2019,Jurong East,JUR,Jurong East,Bus transport Jurong East Temporary Bus Interchange,1.3328572,103.7435522,1990-03-10T00:00:00Z
+ NS2 ,Bukit Batok,3/10/1990,4/20/2019,Bukit Batok South,BBT,Bukit Batok,Bus transport Bukit Batok Bus Interchange,1.3490636,103.7495883,1990-03-10T00:00:00Z
+ NS3 ,Bukit Gombak,3/10/1990,4/20/2019,Bukit Batok North,BGB,Bukit Batok,,1.3589147,103.7518308,1990-03-10T00:00:00Z
+ NS4  JS1  BP1 ,Choa Chu Kang,3/10/1990,4/20/2019,Choa Chu Kang,CCK,Choa Chu Kang,Bus transport Choa Chu Kang Bus Interchange,1.3853846,103.7443373,1990-03-10T00:00:00Z
+ NS5 ,Yew Tee,2/10/1996,4/20/2019,Choa Chu Kang North,YWT,Choa Chu Kang,,1.3973289,103.7475018,1996-02-10T00:00:00Z
+ NS7 ,Kranji,2/10/1996,4/20/2019,Kranji,KRJ,Sungei Kadut,,1.4252268,103.7620278,1996-02-10T00:00:00Z
+ NS8 ,Marsiling,2/10/1996,4/20/2019,Woodlands West,MSL,Woodlands,,1.4325578,103.7741607,1996-02-10T00:00:00Z
+ NS9  TE2 ,Woodlands,2/10/1996,4/20/2019,Woodlands Central,WDL,Woodlands,Bus transport Woodlands Temporary Bus Interchange,1.436962,103.786555,1996-02-10T00:00:00Z
+ NS10 ,Admiralty,2/10/1996,4/20/2019,Woodlands East,ADM,Woodlands,,1.440613,103.8009629,1996-02-10T00:00:00Z
+ NS11 ,Sembawang,2/10/1996,4/20/2019,Sembawang,SBW,Sembawang,Bus transport Sembawang Bus Interchange,1.44909,103.820049,1996-02-10T00:00:00Z
+ NS13 ,Yishun,12/20/1988,4/20/2019,Nee Soon North,YIS,Yishun,Bus transport Yishun Temporary Bus Interchange,1.4294295,103.8350283,1988-12-20T00:00:00Z
+ NS14 ,Khatib,12/20/1988,4/20/2019,Nee Soon South,KTB,Yishun,,1.4173483,103.8329731,1988-12-20T00:00:00Z
+ NS15 ,Yio Chu Kang,11/7/1987,4/20/2019,Yio Chu Kang,YCK,Ang Mo Kio,Bus transport Yio Chu Kang Bus Interchange,1.3817217,103.844934,1987-11-07T00:00:00Z
+ NS16  CR11 ,Ang Mo Kio,11/7/1987,4/20/2019,Ang Mo Kio,AMK,Ang Mo Kio,Bus transport Ang Mo Kio Bus Interchange,1.3699718,103.8495876,1987-11-07T00:00:00Z
+ NS17  CC15 ,Bishan,11/7/1987,4/20/2019,"Kampong San Teng, San Teng",BSH,Bishan,Bus transport Bishan Bus Interchange,1.3508449,103.8481737,1987-11-07T00:00:00Z
+ NS18 ,Braddell,11/7/1987,4/20/2019,Braddell,BDL,Toa Payoh,,1.3405397,103.8470762,1987-11-07T00:00:00Z
+ NS19 ,Toa Payoh,11/7/1987,4/20/2019,Toa Payoh,TAP,Toa Payoh,Bus transport Toa Payoh Bus Interchange,1.3323297,103.8474252,1987-11-07T00:00:00Z
+ NS20 ,Novena,12/12/1987,4/20/2019,Thomson,NOV,Novena,,1.3200248,103.8433833,1987-12-12T00:00:00Z
+ NS21  DT11 ,Newton,12/12/1987,4/20/2019,Newton Circus,NEW,Newton,,1.3137897,103.8377317,1987-12-12T00:00:00Z
+ NS22  TE14 ,Orchard,12/12/1987,4/20/2019,"Scotts, Orchard Boulevard",ORC,"Orchard Planning Area, River Valley Planning Area",,1.3040084,103.831781,1987-12-12T00:00:00Z
+ NS23 ,Somerset,12/12/1987,4/20/2019,Killiney,SOM,Orchard Planning Area,,1.3004441,103.8384389,1987-12-12T00:00:00Z
+ NS24  NE6  CC1 ,Dhoby Ghaut,12/12/1987,4/20/2019,The Istana,DBG,Museum Planning Area,,1.2990936,103.8457886,1987-12-12T00:00:00Z
+ NS25  EW13 ,City Hall,12/12/1987,4/20/2019,Saint Andrew's,CTH,Downtown Core,,1.293076,103.8520677,1987-12-12T00:00:00Z
+ NS26  EW14 ,Raffles Place,12/12/1987,4/20/2019,Central,RFP,Downtown Core,,1.2830173,103.8513365,1987-12-12T00:00:00Z
+ NS27  CE2  TE20 ,Marina Bay,11/4/1989,4/20/2019,"Telok Ayer Basin, Marina South",MRB,"Downtown Core, Straits View Planning Area",,1.2709259,103.8634087,1989-11-04T00:00:00Z
+ NS28 ,Marina South Pier,11/23/2014,4/20/2019,"Marina View, Marina Pier",MSP,Straits View Planning Area,Marina South Pier,1.2714087,103.863631,2014-11-23T00:00:00Z
+ EW1  CR5 ,Pasir Ris,12/16/1989,4/20/2019,Pasir Ris,PSR,Pasir Ris,Bus transport Pasir Ris Bus Interchange,1.3731912,103.9493534,1989-12-16T00:00:00Z
+ EW2  DT32 ,Tampines,12/16/1989,4/20/2019,Tampines North,TAM,Tampines,"Bus transport Tampines Bus Interchange, Bus transport Tampines Concourse Bus Interchange",1.3544303,103.94276,1989-12-16T00:00:00Z
+ EW3 ,Simei,12/16/1989,4/20/2019,Tampines South,SIM,Tampines,,1.34312,103.9534285,1989-12-16T00:00:00Z
+ EW4   CG ,Tanah Merah,11/4/1989,4/20/2019,"Bedok, Changi",TNM,Bedok,,1.3272444,103.9464897,1989-11-04T00:00:00Z
+ EW5 ,Bedok,11/4/1989,4/20/2019,Chai Chee,BDK,Bedok,Bus transport Bedok Bus Interchange,1.3240113,103.9301725,1989-11-04T00:00:00Z
+ EW6 ,Kembangan,11/4/1989,4/20/2019,Frankel,KEM,Bedok,,1.3209998,103.9129039,1989-11-04T00:00:00Z
+ EW7 ,Eunos,11/4/1989,4/20/2019,Eunos,EUN,Geylang,Bus transport Eunos Bus Interchange,1.3197342,103.9028883,1989-11-04T00:00:00Z
+ EW8  CC9 ,Paya Lebar,11/4/1989,4/20/2019,Paya Lebar,PYL,Geylang,,1.3181607,103.8931436,1989-11-04T00:00:00Z
+ EW9 ,Aljunied,11/4/1989,4/20/2019,Aljunied,ALJ,Geylang,,1.3163668,103.8827723,1989-11-04T00:00:00Z
+ EW10 ,Kallang,11/4/1989,4/20/2019,Geylang,KAL,Kallang,Bus transport Lorong 1 Geylang Bus Terminal,1.3114784,103.8713507,1989-11-04T00:00:00Z
+ EW11 ,Lavender,11/4/1989,4/20/2019,Crawford,LVR,Kallang,,1.3074261,103.862848,1989-11-04T00:00:00Z
+ EW12  DT14 ,Bugis,11/4/1989,4/20/2019,"Rochore, Victoria",BGS,"Downtown Core, Rochor",,1.3006608,103.8558619,1989-11-04T00:00:00Z
+ EW15 ,Tanjong Pagar,12/12/1987,4/20/2019,Maxwell,TPG,Downtown Core,,1.2763419,103.8467924,1987-12-12T00:00:00Z
+ EW16  NE3  TE17 ,Outram Park,12/12/1987,4/20/2019,Outram Park,OTP,"Bukit Merah, Outram",Bus transport Kampong Bahru Bus Terminal,1.2802064,103.8402666,1987-12-12T00:00:00Z
+ EW17 ,Tiong Bahru,3/12/1988,4/20/2019,Tiong Bahru,TIB,Bukit Merah,,1.2865018,103.8269778,1988-03-12T00:00:00Z
+ EW18 ,Redhill,3/12/1988,4/20/2019,Alexandra,RDH,Bukit Merah,,1.2896415,103.8167982,1988-03-12T00:00:00Z
+ EW19 ,Queenstown,3/12/1988,4/20/2019,"Princess, Commonwealth",QUE,Queenstown,,1.2948352,103.8059016,1988-03-12T00:00:00Z
+ EW20 ,Commonwealth,3/12/1988,4/20/2019,Queenstown,COM,Queenstown,,1.3023957,103.7983157,1988-03-12T00:00:00Z
+ EW21  CC22 ,Buona Vista,3/12/1988,4/20/2019,North Buona Vista,BNV,Queenstown,Bus transport Buona Vista Bus Terminal,1.3072964,103.7901128,1988-03-12T00:00:00Z
+ EW22 ,Dover,10/18/2001,4/20/2019,Polytechnic,DVR,Queenstown,,1.3113926,103.7786068,2001-10-18T00:00:00Z
+ EW23 ,Clementi,3/12/1988,4/20/2019,Clementi,CLE,Clementi,Bus transport Clementi Bus Interchange,1.3150696,103.7652462,1988-03-12T00:00:00Z
+ EW25 ,Chinese Garden,11/5/1988,4/20/2019,Jurong Lake,CNG,Jurong East,,1.3424249,103.7325924,1988-11-05T00:00:00Z
+ EW26 ,Lakeside,11/5/1988,4/20/2019,Corporation,LKS,Jurong West,,1.344243,103.7207754,1988-11-05T00:00:00Z
+ EW27  JS8 ,Boon Lay,7/6/1990,4/20/2019,Jurong West,BNL,Jurong West,Bus transport Boon Lay Bus Interchange,1.3385559,103.7058277,1990-07-06T00:00:00Z
+ EW28 ,Pioneer,2/28/2009,4/20/2019,Pioneer,PNR,Jurong West,,1.3376018,103.6974089,2009-02-28T00:00:00Z
+ EW29 ,Joo Koon,2/28/2009,4/20/2019,Joo Koon,JKN,Pioneer Planning Area,Bus transport Joo Koon Bus Interchange,1.3277513,103.6783178,2009-02-28T00:00:00Z
+ EW30 ,Gul Circle,6/18/2017,4/20/2019,Tuas,GCL,"Pioneer Planning Area, Tuas",,1.3197555,103.6608303,2017-06-18T00:00:00Z
+ EW31 ,Tuas Crescent,6/18/2017,4/20/2019,Tuas Crescent,TCR,Tuas,,1.3210266,103.6490755,2017-06-18T00:00:00Z
+ EW32 ,Tuas West Road,6/18/2017,4/20/2019,Tuas West,TWR,Tuas,,1.3300485,103.6396175,2017-06-18T00:00:00Z
+ EW33 ,Tuas Link,6/18/2017,4/20/2019,Tuas Link,TLK,Tuas,Bus transport Tuas Bus Terminal,1.3403171,103.6368663,2017-06-18T00:00:00Z
+ CG1  DT35 ,Expo,1/10/2001,4/20/2019,Somapah,XPO,Tampines,,1.3344041,103.9614807,2001-01-10T00:00:00Z
+ CG2 ,Changi Airport,2/8/2002,4/20/2019,Changi Airport,CGA,Changi,"Silhouette An-124.svg Singapore Changi Airport, Bus transport Changi Airport Bus Terminal",1.3576001,103.9884873,2002-02-08T00:00:00Z
+ NE1  CC29 ,HarbourFront,6/20/2003,4/20/2019,World Trade Centre,HBF,Bukit Merah,"Bus transport HarbourFront Bus Interchange, Sentosa Express",1.2656038,103.8208568,2003-06-20T00:00:00Z
+ NE4  DT19 ,Chinatown,6/20/2003,4/20/2019,People's Park,CNT,Outram,,1.2844913,103.8435939,2003-06-20T00:00:00Z
+ NE5 ,Clarke Quay,6/20/2003,4/20/2019,Clarke Quay,CQY,Singapore River Planning Area,,1.2881554,103.8467181,2003-06-20T00:00:00Z
+ NE7  DT12 ,Little India,6/20/2003,4/20/2019,Kandang Kerbau,LTI,"Kallang, Rochor",,1.3062896,103.8493919,2003-06-20T00:00:00Z
+ NE8 ,Farrer Park,6/20/2003,4/20/2019,Farrer Park,FRP,"Kallang, Rochor",,1.3126142,103.8548616,2003-06-20T00:00:00Z
+ NE9 ,Boon Keng,6/20/2003,4/20/2019,Boon Keng,BNK,Kallang,,1.3200375,103.861623,2003-06-20T00:00:00Z
+ NE10 ,Potong Pasir,6/20/2003,4/20/2019,Sennett,PTP,Toa Payoh,,1.331273,103.8687898,2003-06-20T00:00:00Z
+ NE11 ,Woodleigh,6/20/2011,4/20/2019,Woodleigh,WLH,Toa Payoh,,1.3391274,103.8707373,2011-06-20T00:00:00Z
+ NE12  CC13 ,Serangoon,6/20/2003,4/20/2019,Serangoon,SER,Serangoon,Bus transport Serangoon Bus Interchange,1.3497872,103.8736348,2003-06-20T00:00:00Z
+ NE13 ,Kovan,6/20/2003,4/20/2019,Kovan,KVN,Hougang,,1.360175,103.8851627,2003-06-20T00:00:00Z
+ NE14  CR8 ,Hougang,6/20/2003,4/20/2019,Hougang,HGN,Hougang,Bus transport Hougang Central Bus Interchange,1.3713312,103.8925439,2003-06-20T00:00:00Z
+ NE15 ,Buangkok,1/15/2006,4/20/2019,Buangkok,BGK,Sengkang,,1.3829481,103.8933582,2006-01-15T00:00:00Z
+ NE16  STC ,Sengkang,6/20/2003,4/20/2019,Sengkang,SKG,Sengkang,"Bus transport Compassvale Bus Interchange,  Bus transport Sengkang Bus Interchange",1.3916609,103.8954533,2003-06-20T00:00:00Z
+ NE17  PTC ,Punggol,6/20/2003,4/20/2019,Punggol,PGL,Punggol,Bus transport Punggol Temporary Bus Interchange,1.40517,103.9023559,2003-06-20T00:00:00Z
+ CC2 ,Bras Basah,4/17/2010,4/20/2019,Museum,BBS,Museum Planning Area,,1.2969461,103.8507366,2010-04-17T00:00:00Z
+ CC3 ,Esplanade,4/17/2010,4/20/2019,Convention Centre,EPN,Downtown Core,,1.2939413,103.8553744,2010-04-17T00:00:00Z
+ CC4  DT15 ,Promenade,4/17/2010,4/20/2019,Millenia,PMN,Downtown Core,Bus transport Marina Centre Bus Terminal,1.2939988,103.8601773,2010-04-17T00:00:00Z
+ CC5 ,Nicoll Highway,4/17/2010,4/20/2019,Nicoll Highway,NCH,Kallang,,1.3002063,103.8634707,2010-04-17T00:00:00Z
+ CC6 ,Stadium,4/17/2010,4/20/2019,Boulevard,SDM,Kallang,,1.3027829,103.8754063,2010-04-17T00:00:00Z
+ CC7 ,Mountbatten,4/17/2010,4/20/2019,Old Airport Road,MBT,"Geylang, Kallang",,1.3060844,103.8831531,2010-04-17T00:00:00Z
+ CC8 ,Dakota,4/17/2010,4/20/2019,Tanjong Katong,DKT,Geylang,,1.30841,103.888814,2010-04-17T00:00:00Z
+ CC10  DT26 ,MacPherson,4/17/2010,4/20/2019,MacPherson,MPS,Geylang,,1.3267049,103.8898898,2010-04-17T00:00:00Z
+ CC11 ,Tai Seng,4/17/2010,4/20/2019,Upper Paya Lebar,TSG,"Hougang, Toa Payoh",,1.3358756,103.8877164,2010-04-17T00:00:00Z
+ CC12 ,Bartley,5/28/2009,4/20/2019,Bartley,BLY,"Serangoon, Toa Payoh",,1.3428695,103.8796386,2009-05-28T00:00:00Z
+ CC14 ,Lorong Chuan,5/28/2009,4/20/2019,Lorong Chuan,LRC,Serangoon,,1.3514978,103.8649467,2009-05-28T00:00:00Z
+ CC16 ,Marymount,5/28/2009,4/20/2019,Marymount,MRM,Bishan,,1.3490142,103.8390947,2009-05-28T00:00:00Z
+ CC17  TE9 ,Caldecott,10/8/2011,4/20/2019,Thomson,CDT,Toa Payoh,,1.3375953,103.8396058,2011-10-08T00:00:00Z
+ CC19  DT9 ,Botanic Gardens,10/8/2011,4/20/2019,Adam,BTN,Tanglin,,1.3138397,103.8159136,2011-10-08T00:00:00Z
+ CC20 ,Farrer Road,10/8/2011,4/20/2019,Farrer,FRR,"Bukit Timah, Tanglin",,1.3175741,103.807711,2011-10-08T00:00:00Z
+ CC21 ,Holland Village,10/8/2011,4/20/2019,Holland,HLV,Bukit Timah,,1.3111457,103.7961408,2011-10-08T00:00:00Z
+ CC23 ,one-north,10/8/2011,4/20/2019,one-north,ONH,Queenstown,,1.2998113,103.7875947,2011-10-08T00:00:00Z
+ CC24 ,Kent Ridge,10/8/2011,4/20/2019,NUH,KRG,Queenstown,,1.2935861,103.7844513,2011-10-08T00:00:00Z
+ CC25 ,Haw Par Villa,10/8/2011,4/20/2019,West Coast,HPV,Queenstown,,1.283106,103.7819799,2011-10-08T00:00:00Z
+ CC26 ,Pasir Panjang,10/8/2011,4/20/2019,Pasir Panjang,PPJ,Queenstown,,1.2760684,103.7919037,2011-10-08T00:00:00Z
+ CC27 ,Labrador Park,10/8/2011,4/20/2019,Alexandra,LBD,Bukit Merah,,1.2721259,103.8025575,2011-10-08T00:00:00Z
+ CC28 ,Telok Blangah,10/8/2011,4/20/2019,Telok Blangah,TLB,Bukit Merah,,1.2707152,103.809878,2011-10-08T00:00:00Z
+ CE1  DT16 ,Bayfront,1/14/2012,4/20/2019,Bayfront,BFT,Downtown Core,,1.2813386,103.8589551,2012-01-14T00:00:00Z
+ DT1  BP6 ,Bukit Panjang,12/27/2015,4/20/2019,Petir,BPJ,"Bukit Batok, Bukit Panjang, Choa Chu Kang",Bus transport Bukit Panjang Bus Interchange,1.2760684,103.7919037,2015-12-27T00:00:00Z
+ DT2 ,Cashew,12/27/2015,4/20/2019,Cashew,CSW,"Bukit Batok, Bukit Panjang",,1.3699756,103.7645794,2015-12-27T00:00:00Z
+ DT3 ,Hillview,12/27/2015,4/20/2019,Hillview,HVW,"Bukit Batok, Bukit Panjang",,1.3630377,103.7674128,2015-12-27T00:00:00Z
+ DT5 ,Beauty World,12/27/2015,4/20/2019,Beauty World,BTW,Bukit Timah,,1.3415532,103.7757466,2015-12-27T00:00:00Z
+ DT6 ,King Albert Park,12/27/2015,4/20/2019,Blackmore,KAP,Bukit Timah,,1.3356884,103.7831926,2015-12-27T00:00:00Z
+ DT7 ,Sixth Avenue,12/27/2015,4/20/2019,Sixth Avenue,SAV,Bukit Timah,,1.3311776,103.7972016,2015-12-27T00:00:00Z
+ DT8 ,Tan Kah Kee,12/27/2015,4/20/2019,Duchess,TKK,Bukit Timah,,1.3257996,103.8079556,2015-12-27T00:00:00Z
+ DT10  TE11 ,Stevens,12/27/2015,4/20/2019,Stevens,STV,Tanglin,,1.3199584,103.8259427,2015-12-27T00:00:00Z
+ DT13 ,Rochor,12/27/2015,4/20/2019,Rochor,RCR,Rochor,,1.3035362,103.8525596,2015-12-27T00:00:00Z
+ DT17 ,Downtown,12/22/2013,4/20/2019,Landmark,DTN,Downtown Core,,1.2794576,103.8528128,2013-12-22T00:00:00Z
+ DT18 ,Telok Ayer,12/22/2013,4/20/2019,Cross Street,TLA,"Downtown Core, Outram",,1.282221,103.8485947,2013-12-22T00:00:00Z
+ DT20 ,Fort Canning,10/21/2017,4/20/2019,River Valley,FCN,"Museum Planning Area, Singapore River Planning Area",,1.2921101,103.844762,2017-10-21T00:00:00Z
+ DT21 ,Bencoolen,10/21/2017,4/20/2019,Bencoolen,BCL,"Museum Planning Area, Rochor",,1.2990136,103.8505193,2017-10-21T00:00:00Z
+ DT22 ,Jalan Besar,10/21/2017,4/20/2019,Sungei Road,JLB,Rochor,,1.3055083,103.8554325,2017-10-21T00:00:00Z
+ DT23 ,Bendemeer,10/21/2017,4/20/2019,Jalan Besar,BDM,Kallang,,1.3200375,103.861623,2017-10-21T00:00:00Z
+ DT24 ,Geylang Bahru,10/21/2017,4/20/2019,Kallang Bahru,GLB,Kallang,,1.3213087,103.8713815,2017-10-21T00:00:00Z
+ DT25 ,Mattar,10/21/2017,4/20/2019,Mattar,MTR,Geylang,,1.3272214,103.8828949,2017-10-21T00:00:00Z
+ DT27 ,Ubi,10/21/2017,4/20/2019,Ubi,UBI,Geylang,,1.3298687,103.900048,2017-10-21T00:00:00Z
+ DT28 ,Kaki Bukit,10/21/2017,4/20/2019,Kaki Bukit,KKB,Bedok,,1.334927,103.909016,2017-10-21T00:00:00Z
+ DT29 ,Bedok North,10/21/2017,4/20/2019,Bedok Town Park,BDN,Bedok,,1.3351391,103.918397,2017-10-21T00:00:00Z
+ DT30 ,Bedok Reservoir,10/21/2017,4/20/2019,Bedok Reservoir,BDR,Bedok,,1.3366807,103.9326699,2017-10-21T00:00:00Z
+ DT31 ,Tampines West,10/21/2017,4/20/2019,Tampines West,TPW,Tampines,,1.3495907,103.9567879,2017-10-21T00:00:00Z
+ DT33 ,Tampines East,10/21/2017,4/20/2019,Tampines East,TPE,Tampines,,1.3495907,103.9567879,2017-10-21T00:00:00Z
+ DT34 ,Upper Changi,10/21/2017,4/20/2019,Upper Changi,UPC,Tampines,,1.3421647,103.961505,2017-10-21T00:00:00Z

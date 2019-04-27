@@ -1,0 +1,120 @@
+Lines,Station_Name,Station_Name_CH,Station_Name_TM,Opening,Name,Abbr,Location,Bus_Interchange,lat,lon,datetime
+ NS1  EW24  JE5 ,Jurong East,裕廊东,ஜூரோங் கிழக்கு,10 March 1990,Jurong East,JUR,Jurong East,Bus transport Jurong East Temporary Bus Interchange,1.3328572,103.7435522,1990-03-10T00:00:00Z
+ NS2 ,Bukit Batok,武吉巴督,புக்கிட் பாத்தோக்,10 March 1990,Bukit Batok South,BBT,Bukit Batok,Bus transport Bukit Batok Bus Interchange,1.3490636,103.7495883,1990-03-10T00:00:00Z
+ NS3 ,Bukit Gombak,武吉甘柏,புக்கிட் கோம்பாக்,10 March 1990,Bukit Batok North,BGB,Bukit Batok,,1.3589147,103.7518308,1990-03-10T00:00:00Z
+ NS4  JS1  BP1 ,Choa Chu Kang,蔡厝港,சுவா சூ காங்,10 March 1990,Choa Chu Kang,CCK,Choa Chu Kang,Bus transport Choa Chu Kang Bus Interchange,1.3853846,103.7443373,1990-03-10T00:00:00Z
+ NS5 ,Yew Tee,油池,இயூ டீ,10 February 1996,Choa Chu Kang North,YWT,Choa Chu Kang,,1.3973289,103.7475018,1996-02-10T00:00:00Z
+ NS7 ,Kranji,克兰芝,கிராஞ்சி,10 February 1996,Kranji,KRJ,Sungei Kadut,,1.4252268,103.7620278,1996-02-10T00:00:00Z
+ NS8 ,Marsiling,马西岭,மார்சிலிங்,10 February 1996,Woodlands West,MSL,Woodlands,,1.4325578,103.7741607,1996-02-10T00:00:00Z
+ NS9  TE2 ,Woodlands,兀兰,ஊட்லண்ட்ஸ்,10 February 1996,Woodlands Central,WDL,Woodlands,Bus transport Woodlands Temporary Bus Interchange,1.436962,103.786555,1996-02-10T00:00:00Z
+ NS10 ,Admiralty,海军部,அட்மிரல்ட்டி,10 February 1996,Woodlands East,ADM,Woodlands,,1.440613,103.8009629,1996-02-10T00:00:00Z
+ NS11 ,Sembawang,三巴旺,செம்பாவாங்,10 February 1996,Sembawang,SBW,Sembawang,Bus transport Sembawang Bus Interchange,1.44909,103.820049,1996-02-10T00:00:00Z
+ NS13 ,Yishun,义顺,யீஷூன்,20 December 1988,Nee Soon North,YIS,Yishun,Bus transport Yishun Temporary Bus Interchange,1.4294295,103.8350283,1988-12-20T00:00:00Z
+ NS14 ,Khatib,卡迪,காதிப்,20 December 1988,Nee Soon South,KTB,Yishun,,1.4173483,103.8329731,1988-12-20T00:00:00Z
+ NS15 ,Yio Chu Kang,杨厝港,இயோ சூ காங்,7 November 1987,Yio Chu Kang,YCK,Ang Mo Kio,Bus transport Yio Chu Kang Bus Interchange,1.3817217,103.844934,1987-11-07T00:00:00Z
+ NS16  CR11 ,Ang Mo Kio,宏茂桥,அங் மோ கியோ,7 November 1987,Ang Mo Kio,AMK,Ang Mo Kio,Bus transport Ang Mo Kio Bus Interchange,1.3699718,103.8495876,1987-11-07T00:00:00Z
+ NS17  CC15 ,Bishan,碧山,பீஷான்,7 November 1987,"Kampong San Teng, San Teng",BSH,Bishan,Bus transport Bishan Bus Interchange,1.3508449,103.8481737,1987-11-07T00:00:00Z
+ NS18 ,Braddell,布莱德,பிரேடல்,7 November 1987,Braddell,BDL,Toa Payoh,,1.3405397,103.8470762,1987-11-07T00:00:00Z
+ NS19 ,Toa Payoh,大巴窑,தோ பாயோ,7 November 1987,Toa Payoh,TAP,Toa Payoh,Bus transport Toa Payoh Bus Interchange,1.3323297,103.8474252,1987-11-07T00:00:00Z
+ NS20 ,Novena,诺维娜,நொவீனா,12 December 1987,Thomson,NOV,Novena,,1.3200248,103.8433833,1987-12-12T00:00:00Z
+ NS21  DT11 ,Newton,纽顿,நியூட்டன்,12 December 1987,Newton Circus,NEW,Newton,,1.3137897,103.8377317,1987-12-12T00:00:00Z
+ NS22  TE14 ,Orchard,乌节,ஆர்ச்சர்ட்,12 December 1987,"Scotts, Orchard Boulevard",ORC,"Orchard Planning Area, River Valley Planning Area",,1.3040084,103.831781,1987-12-12T00:00:00Z
+ NS23 ,Somerset,索美塞,சாமர்செட்,12 December 1987,Killiney,SOM,Orchard Planning Area,,1.3004441,103.8384389,1987-12-12T00:00:00Z
+ NS24  NE6  CC1 ,Dhoby Ghaut,多美歌,டோபி காட்,12 December 1987,The Istana,DBG,Museum Planning Area,,1.2990936,103.8457886,1987-12-12T00:00:00Z
+ NS25  EW13 ,City Hall,政府大厦,நகர மண்டபம்,12 December 1987,Saint Andrew's,CTH,Downtown Core,,1.293076,103.8520677,1987-12-12T00:00:00Z
+ NS26  EW14 ,Raffles Place,莱佛士坊,ராஃபிள்ஸ் பிளேஸ்,12 December 1987,Central,RFP,Downtown Core,,1.2830173,103.8513365,1987-12-12T00:00:00Z
+ NS27  CE2  TE20 ,Marina Bay,滨海湾,மரீனா பே,4 November 1989,"Telok Ayer Basin, Marina South",MRB,"Downtown Core, Straits View Planning Area",,1.2709259,103.8634087,1989-11-04T00:00:00Z
+ NS28 ,Marina South Pier,滨海南码头,மரினா சவுத் படகுத்துறை,23 November 2014,"Marina View, Marina Pier",MSP,Straits View Planning Area,Marina South Pier,1.2714087,103.863631,2014-11-23T00:00:00Z
+ EW1  CR5 ,Pasir Ris,巴西立,பாசிர் ரிஸ்,16 December 1989,Pasir Ris,PSR,Pasir Ris,Bus transport Pasir Ris Bus Interchange,1.3731912,103.9493534,1989-12-16T00:00:00Z
+ EW2  DT32 ,Tampines,淡滨尼,தெம்பினிஸ்,16 December 1989,Tampines North,TAM,Tampines,"Bus transport Tampines Bus Interchange, Bus transport Tampines Concourse Bus Interchange",1.3544303,103.94276,1989-12-16T00:00:00Z
+ EW3 ,Simei,四美,ஸீமெய்,16 December 1989,Tampines South,SIM,Tampines,,1.34312,103.9534285,1989-12-16T00:00:00Z
+ EW4   CG ,Tanah Merah,丹那美拉,தானா மேரா,4 November 1989,"Bedok, Changi",TNM,Bedok,,1.3272444,103.9464897,1989-11-04T00:00:00Z
+ EW5 ,Bedok,勿洛,பிடோக்,4 November 1989,Chai Chee,BDK,Bedok,Bus transport Bedok Bus Interchange,1.3240113,103.9301725,1989-11-04T00:00:00Z
+ EW6 ,Kembangan,景万岸,கெம்பாங்கான்,4 November 1989,Frankel,KEM,Bedok,,1.3209998,103.9129039,1989-11-04T00:00:00Z
+ EW7 ,Eunos,友诺士,யூனுஸ்,4 November 1989,Eunos,EUN,Geylang,Bus transport Eunos Bus Interchange,1.3197342,103.9028883,1989-11-04T00:00:00Z
+ EW8  CC9 ,Paya Lebar,巴耶利峇,பாய லேபார்,4 November 1989,Paya Lebar,PYL,Geylang,,1.3181607,103.8931436,1989-11-04T00:00:00Z
+ EW9 ,Aljunied,阿裕尼,அல்ஜூனிட்,4 November 1989,Aljunied,ALJ,Geylang,,1.3163668,103.8827723,1989-11-04T00:00:00Z
+ EW10 ,Kallang,加冷,காலாங்,4 November 1989,Geylang,KAL,Kallang,Bus transport Lorong 1 Geylang Bus Terminal,1.3114784,103.8713507,1989-11-04T00:00:00Z
+ EW11 ,Lavender,劳明达,லவண்டர்,4 November 1989,Crawford,LVR,Kallang,,1.3074261,103.862848,1989-11-04T00:00:00Z
+ EW12  DT14 ,Bugis,武吉士,பூகிஸ்,4 November 1989,"Rochore, Victoria",BGS,"Downtown Core, Rochor",,1.3006608,103.8558619,1989-11-04T00:00:00Z
+ EW15 ,Tanjong Pagar,丹戎巴葛,தஞ்சோங் பகார்,12 December 1987,Maxwell,TPG,Downtown Core,,1.2763419,103.8467924,1987-12-12T00:00:00Z
+ EW16  NE3  TE17 ,Outram Park,欧南园,ஊட்ரம் பார்க்,12 December 1987,Outram Park,OTP,"Bukit Merah, Outram",Bus transport Kampong Bahru Bus Terminal,1.2802064,103.8402666,1987-12-12T00:00:00Z
+ EW17 ,Tiong Bahru,中峇鲁,தியோங் பாரு,12 March 1988,Tiong Bahru,TIB,Bukit Merah,,1.2865018,103.8269778,1988-03-12T00:00:00Z
+ EW18 ,Redhill,红山,ரெட்ஹில்,12 March 1988,Alexandra,RDH,Bukit Merah,,1.2896415,103.8167982,1988-03-12T00:00:00Z
+ EW19 ,Queenstown,女皇镇,குவீன்ஸ்டவுன்,12 March 1988,"Princess, Commonwealth",QUE,Queenstown,,1.2948352,103.8059016,1988-03-12T00:00:00Z
+ EW20 ,Commonwealth,联邦,காமன்வெல்த்,12 March 1988,Queenstown,COM,Queenstown,,1.3023957,103.7983157,1988-03-12T00:00:00Z
+ EW21  CC22 ,Buona Vista,波那维斯达,புவன விஸ்தா,12 March 1988,North Buona Vista,BNV,Queenstown,Bus transport Buona Vista Bus Terminal,1.3072964,103.7901128,1988-03-12T00:00:00Z
+ EW22 ,Dover,杜弗,டோவெர்,18 October 2001,Polytechnic,DVR,Queenstown,,1.3113926,103.7786068,2001-10-18T00:00:00Z
+ EW23 ,Clementi,金文泰,கிளிமெண்டி,12 March 1988,Clementi,CLE,Clementi,Bus transport Clementi Bus Interchange,1.3150696,103.7652462,1988-03-12T00:00:00Z
+ EW25 ,Chinese Garden,裕华园,சீனத் தோட்டம்,5 November 1988,Jurong Lake,CNG,Jurong East,,1.3424249,103.7325924,1988-11-05T00:00:00Z
+ EW26 ,Lakeside,湖畔,ஏரிக்கரை,5 November 1988,Corporation,LKS,Jurong West,,1.344243,103.7207754,1988-11-05T00:00:00Z
+ EW27  JS8 ,Boon Lay,文礼,பூன் லே,6 July 1990,Jurong West,BNL,Jurong West,Bus transport Boon Lay Bus Interchange,1.3385559,103.7058277,1990-07-06T00:00:00Z
+ EW28 ,Pioneer,先驱,பயனியர்,28 February 2009,Pioneer,PNR,Jurong West,,1.3376018,103.6974089,2009-02-28T00:00:00Z
+ EW29 ,Joo Koon,裕群,ஜூ கூன்,28 February 2009,Joo Koon,JKN,Pioneer Planning Area,Bus transport Joo Koon Bus Interchange,1.3277513,103.6783178,2009-02-28T00:00:00Z
+ EW30 ,Gul Circle,卡尔圈,கல் சர்க்கல்,18 June 2017,Tuas,GCL,"Pioneer Planning Area, Tuas",,1.3197555,103.6608303,2017-06-18T00:00:00Z
+ EW31 ,Tuas Crescent,大士弯,துவாஸ் கிரசண்ட்,18 June 2017,Tuas Crescent,TCR,Tuas,,1.3210266,103.6490755,2017-06-18T00:00:00Z
+ EW32 ,Tuas West Road,大士西路,துவாஸ் வெஸ்ட் ரோடு,18 June 2017,Tuas West,TWR,Tuas,,1.3300485,103.6396175,2017-06-18T00:00:00Z
+ EW33 ,Tuas Link,大士连路,துவாஸ் லிங்க்,18 June 2017,Tuas Link,TLK,Tuas,Bus transport Tuas Bus Terminal,1.3403171,103.6368663,2017-06-18T00:00:00Z
+ CG1  DT35 ,Expo,博览,எக்ஸ்போ,10 January 2001,Somapah,XPO,Tampines,,1.3344041,103.9614807,2001-01-10T00:00:00Z
+ CG2 ,Changi Airport,樟宜机场,சாங்கி விமானநிலையம்,8 February 2002,Changi Airport,CGA,Changi,"Silhouette An-124.svg Singapore Changi Airport, Bus transport Changi Airport Bus Terminal",1.3576001,103.9884873,2002-02-08T00:00:00Z
+ NE1  CC29 ,HarbourFront,港湾,துறைமுகம்,20 June 2003,World Trade Centre,HBF,Bukit Merah,"Bus transport HarbourFront Bus Interchange, Sentosa Express",1.2656038,103.8208568,2003-06-20T00:00:00Z
+ NE4  DT19 ,Chinatown,牛车水,சைனாடவுன்,20 June 2003,People's Park,CNT,Outram,,1.2844913,103.8435939,2003-06-20T00:00:00Z
+ NE5 ,Clarke Quay,克拉码头,கிளார்க் கீ,20 June 2003,Clarke Quay,CQY,Singapore River Planning Area,,1.2881554,103.8467181,2003-06-20T00:00:00Z
+ NE7  DT12 ,Little India,小印度,லிட்டில் இந்தியா,20 June 2003,Kandang Kerbau,LTI,"Kallang, Rochor",,1.3062896,103.8493919,2003-06-20T00:00:00Z
+ NE8 ,Farrer Park,花拉公园,ஃபேரர் பார்க்,20 June 2003,Farrer Park,FRP,"Kallang, Rochor",,1.3126142,103.8548616,2003-06-20T00:00:00Z
+ NE9 ,Boon Keng,文庆,பூன் கெங்,20 June 2003,Boon Keng,BNK,Kallang,,1.3200375,103.861623,2003-06-20T00:00:00Z
+ NE10 ,Potong Pasir,波东巴西,போத்தோங் பாசிர்,20 June 2003,Sennett,PTP,Toa Payoh,,1.331273,103.8687898,2003-06-20T00:00:00Z
+ NE11 ,Woodleigh,兀里,உட்லீ,20 June 2011,Woodleigh,WLH,Toa Payoh,,1.3391274,103.8707373,2011-06-20T00:00:00Z
+ NE12  CC13 ,Serangoon,实龙岗,சிராங்கூன்,20 June 2003,Serangoon,SER,Serangoon,Bus transport Serangoon Bus Interchange,1.3497872,103.8736348,2003-06-20T00:00:00Z
+ NE13 ,Kovan,高文,கோவன்,20 June 2003,Kovan,KVN,Hougang,,1.360175,103.8851627,2003-06-20T00:00:00Z
+ NE14  CR8 ,Hougang,后港,ஹவ்காங்,20 June 2003,Hougang,HGN,Hougang,Bus transport Hougang Central Bus Interchange,1.3713312,103.8925439,2003-06-20T00:00:00Z
+ NE15 ,Buangkok,万国,புவாங்கோக்,15 January 2006,Buangkok,BGK,Sengkang,,1.3829481,103.8933582,2006-01-15T00:00:00Z
+ NE16  STC ,Sengkang,盛港,செங்காங்,20 June 2003,Sengkang,SKG,Sengkang,"Bus transport Compassvale Bus Interchange,  Bus transport Sengkang Bus Interchange",1.3916609,103.8954533,2003-06-20T00:00:00Z
+ NE17  PTC ,Punggol,榜鹅,பொங்கோல்,20 June 2003,Punggol,PGL,Punggol,Bus transport Punggol Temporary Bus Interchange,1.40517,103.9023559,2003-06-20T00:00:00Z
+ CC2 ,Bras Basah,百胜,பிராஸ் பாசா,17 April 2010,Museum,BBS,Museum Planning Area,,1.2969461,103.8507366,2010-04-17T00:00:00Z
+ CC3 ,Esplanade,滨海中心,எஸ்பிளனேட்,17 April 2010,Convention Centre,EPN,Downtown Core,,1.2939413,103.8553744,2010-04-17T00:00:00Z
+ CC4  DT15 ,Promenade,宝门廊,புரொமனாட்,17 April 2010,Millenia,PMN,Downtown Core,Bus transport Marina Centre Bus Terminal,1.2939988,103.8601773,2010-04-17T00:00:00Z
+ CC5 ,Nicoll Highway,尼诰大道,நிக்கல் நெடுஞ்சாலை,17 April 2010,Nicoll Highway,NCH,Kallang,,1.3002063,103.8634707,2010-04-17T00:00:00Z
+ CC6 ,Stadium,体育场,ஸ்டேடியம்,17 April 2010,Boulevard,SDM,Kallang,,1.3027829,103.8754063,2010-04-17T00:00:00Z
+ CC7 ,Mountbatten,蒙巴登,மவுண்ட்பேட்டன்,17 April 2010,Old Airport Road,MBT,"Geylang, Kallang",,1.3060844,103.8831531,2010-04-17T00:00:00Z
+ CC8 ,Dakota,达科达,டகோட்டா,17 April 2010,Tanjong Katong,DKT,Geylang,,1.30841,103.888814,2010-04-17T00:00:00Z
+ CC10  DT26 ,MacPherson,麦波申,மெக்பர்சன்,17 April 2010,MacPherson,MPS,Geylang,,1.3267049,103.8898898,2010-04-17T00:00:00Z
+ CC11 ,Tai Seng,大成,தை செங்,17 April 2010,Upper Paya Lebar,TSG,"Hougang, Toa Payoh",,1.3358756,103.8877164,2010-04-17T00:00:00Z
+ CC12 ,Bartley,巴特礼,பார்ட்லி,28 May 2009,Bartley,BLY,"Serangoon, Toa Payoh",,1.3428695,103.8796386,2009-05-28T00:00:00Z
+ CC14 ,Lorong Chuan,罗弄泉,லோரோங் சுவான்,28 May 2009,Lorong Chuan,LRC,Serangoon,,1.3514978,103.8649467,2009-05-28T00:00:00Z
+ CC16 ,Marymount,玛丽蒙,மேரிமவுண்ட்,28 May 2009,Marymount,MRM,Bishan,,1.3490142,103.8390947,2009-05-28T00:00:00Z
+ CC17  TE9 ,Caldecott,加利谷,கால்டிகாட்,8 October 2011,Thomson,CDT,Toa Payoh,,1.3375953,103.8396058,2011-10-08T00:00:00Z
+ CC19  DT9 ,Botanic Gardens,植物园,பூ மலை,8 October 2011,Adam,BTN,Tanglin,,1.3138397,103.8159136,2011-10-08T00:00:00Z
+ CC20 ,Farrer Road,花拉路,ஃபேரர் சாலை,8 October 2011,Farrer,FRR,"Bukit Timah, Tanglin",,1.3175741,103.807711,2011-10-08T00:00:00Z
+ CC21 ,Holland Village,荷兰村,ஹாலந்து வில்லேஜ்,8 October 2011,Holland,HLV,Bukit Timah,,1.3111457,103.7961408,2011-10-08T00:00:00Z
+ CC23 ,one-north,纬壹,ஒன்-நார்த்,8 October 2011,one-north,ONH,Queenstown,,1.2998113,103.7875947,2011-10-08T00:00:00Z
+ CC24 ,Kent Ridge,肯特岗,கெண்ட் ரிஜ்,8 October 2011,NUH,KRG,Queenstown,,1.2935861,103.7844513,2011-10-08T00:00:00Z
+ CC25 ,Haw Par Villa,虎豹别墅,ஹா பர் வில்லா,8 October 2011,West Coast,HPV,Queenstown,,1.283106,103.7819799,2011-10-08T00:00:00Z
+ CC26 ,Pasir Panjang,巴西班让,பாசிர் பாஞ்சாங்,8 October 2011,Pasir Panjang,PPJ,Queenstown,,1.2760684,103.7919037,2011-10-08T00:00:00Z
+ CC27 ,Labrador Park,拉柏多公园,லாப்ரடார் பூங்கா,8 October 2011,Alexandra,LBD,Bukit Merah,,1.2721259,103.8025575,2011-10-08T00:00:00Z
+ CC28 ,Telok Blangah,直落布兰雅,தெலுக் பிளாங்கா,8 October 2011,Telok Blangah,TLB,Bukit Merah,,1.2707152,103.809878,2011-10-08T00:00:00Z
+ CE1  DT16 ,Bayfront,海湾舫,பேஃபிரண்ட்,14 January 2012,Bayfront,BFT,Downtown Core,,1.2813386,103.8589551,2012-01-14T00:00:00Z
+ DT1  BP6 ,Bukit Panjang,武吉班让,புக்கிட் பாஞ்சாங்,27 December 2015,Petir,BPJ,"Bukit Batok, Bukit Panjang, Choa Chu Kang",Bus transport Bukit Panjang Bus Interchange,1.2760684,103.7919037,2015-12-27T00:00:00Z
+ DT2 ,Cashew,凯秀,கேஷ்யூ,27 December 2015,Cashew,CSW,"Bukit Batok, Bukit Panjang",,1.3699756,103.7645794,2015-12-27T00:00:00Z
+ DT3 ,Hillview,山景,ஹில்வியூ,27 December 2015,Hillview,HVW,"Bukit Batok, Bukit Panjang",,1.3630377,103.7674128,2015-12-27T00:00:00Z
+ DT5 ,Beauty World,美世界,பியூட்டி வோர்ல்ட்,27 December 2015,Beauty World,BTW,Bukit Timah,,1.3415532,103.7757466,2015-12-27T00:00:00Z
+ DT6 ,King Albert Park,阿尔柏王园,கிங் ஆல்பர்ட் பார்க்,27 December 2015,Blackmore,KAP,Bukit Timah,,1.3356884,103.7831926,2015-12-27T00:00:00Z
+ DT7 ,Sixth Avenue,第六道,சிக்ஸ்த் அவென்யூ,27 December 2015,Sixth Avenue,SAV,Bukit Timah,,1.3311776,103.7972016,2015-12-27T00:00:00Z
+ DT8 ,Tan Kah Kee,陈嘉庚,டான் கா கீ,27 December 2015,Duchess,TKK,Bukit Timah,,1.3257996,103.8079556,2015-12-27T00:00:00Z
+ DT10  TE11 ,Stevens,史蒂芬,ஸ்டீவன்ஸ்,27 December 2015,Stevens,STV,Tanglin,,1.3199584,103.8259427,2015-12-27T00:00:00Z
+ DT13 ,Rochor,梧槽,ரோச்சோர்,27 December 2015,Rochor,RCR,Rochor,,1.3035362,103.8525596,2015-12-27T00:00:00Z
+ DT17 ,Downtown,市中心,டௌன்டவுன்,22 December 2013,Landmark,DTN,Downtown Core,,1.2794576,103.8528128,2013-12-22T00:00:00Z
+ DT18 ,Telok Ayer,直落亚逸,தெலுக் ஆயர்,22 December 2013,Cross Street,TLA,"Downtown Core, Outram",,1.282221,103.8485947,2013-12-22T00:00:00Z
+ DT20 ,Fort Canning,福康宁,ஃபோர்ட் கெனிங்,21 October 2017,River Valley,FCN,"Museum Planning Area, Singapore River Planning Area",,1.2921101,103.844762,2017-10-21T00:00:00Z
+ DT21 ,Bencoolen,明古连,பென்கூலன்,21 October 2017,Bencoolen,BCL,"Museum Planning Area, Rochor",,1.2990136,103.8505193,2017-10-21T00:00:00Z
+ DT22 ,Jalan Besar,惹兰勿刹,ஜாலான் புசார்,21 October 2017,Sungei Road,JLB,Rochor,,1.3055083,103.8554325,2017-10-21T00:00:00Z
+ DT23 ,Bendemeer,明地迷亚,பெண்டிமியர்,21 October 2017,Jalan Besar,BDM,Kallang,,1.3200375,103.861623,2017-10-21T00:00:00Z
+ DT24 ,Geylang Bahru,芽笼峇鲁,கேலாங் பாரு,21 October 2017,Kallang Bahru,GLB,Kallang,,1.3213087,103.8713815,2017-10-21T00:00:00Z
+ DT25 ,Mattar,玛达,மாத்தார்,21 October 2017,Mattar,MTR,Geylang,,1.3272214,103.8828949,2017-10-21T00:00:00Z
+ DT27 ,Ubi,乌美,உபி,21 October 2017,Ubi,UBI,Geylang,,1.3298687,103.900048,2017-10-21T00:00:00Z
+ DT28 ,Kaki Bukit,加基武吉,காக்கி புக்கிட்,21 October 2017,Kaki Bukit,KKB,Bedok,,1.334927,103.909016,2017-10-21T00:00:00Z
+ DT29 ,Bedok North,勿洛北,பிடோக் நார்த்,21 October 2017,Bedok Town Park,BDN,Bedok,,1.3351391,103.918397,2017-10-21T00:00:00Z
+ DT30 ,Bedok Reservoir,勿洛蓄水池,பிடோக் ரெசவோர்,21 October 2017,Bedok Reservoir,BDR,Bedok,,1.3366807,103.9326699,2017-10-21T00:00:00Z
+ DT31 ,Tampines West,淡滨尼西,தெம்பினிஸ் வெஸ்ட்,21 October 2017,Tampines West,TPW,Tampines,,1.3495907,103.9567879,2017-10-21T00:00:00Z
+ DT33 ,Tampines East,淡滨尼东,தெம்பினிஸ் ஈஸ்ட்,21 October 2017,Tampines East,TPE,Tampines,,1.3495907,103.9567879,2017-10-21T00:00:00Z
+ DT34 ,Upper Changi,樟宜上段,அப்பர் சாங்கி,21 October 2017,Upper Changi,UPC,Tampines,,1.3421647,103.961505,2017-10-21T00:00:00Z
